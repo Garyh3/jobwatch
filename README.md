@@ -1,1 +1,1 @@
-# jobwatch
+Collects junior tech job postings in Canada from employers’ career pages every morning.
